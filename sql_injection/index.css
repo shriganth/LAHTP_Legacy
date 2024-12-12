@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+.searchBar {
+    width: 400px;
+}
+
+.searchBar-outline {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    justify-content: space-around;
+}
+
+#search-btn {
+    border: none;
+    border-radius: 30px;
+    width: 70px;
+    background-color: rgb(7, 7, 161);
+    color: white;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#result {
+    text-align: center;
+}
